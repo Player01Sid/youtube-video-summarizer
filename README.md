@@ -6,3 +6,5 @@ Downloding Modules
 pip install youtube-transcript-api
 pip install transformers torch
 ```
+
+Sample Youtube Video ID: qgpsIBLvrGY
